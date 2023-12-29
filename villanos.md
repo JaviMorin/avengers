@@ -1,4 +1,5 @@
 # Nuevos
 
 * Doom
-* Skull
+* Skullgit 
+* Doctor Mor
